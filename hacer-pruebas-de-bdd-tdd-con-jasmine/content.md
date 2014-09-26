@@ -160,4 +160,4 @@ describe('Hola mundo', function () {
 });
 ```
 
-Puedes ver este ejemplo en [Github](http://github.com/markotom/javascriptmx/hacer-pruebas-de-bdd-tdd-con-jasmine/example).
+Puedes ver este ejemplo en [Github](https://github.com/markotom/javascriptmx/tree/master/hacer-pruebas-de-bdd-tdd-con-jasmine/example).
