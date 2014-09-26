@@ -15,7 +15,7 @@ En Jasmine encontraremos las siguientes características:
 
 BDD está relacionado con el comportamiento de nuestro desarrollo, a diferencia de TDD (*Testing Driven Development*) que sólo está centrado en probar su funcionamiento. Con BDD podemos describir de manera más precisa lo que nuestro desarrollo debe hacer, por eso es muy útil para tener claridad de cómo empezar a desarrollar y para saber qué es lo que debemos y no debemos hacer. Si deseas conocer más sobre BDD, puedes revisar la publicación [Introducing BDD](http://dannorth.net/introducing-bdd) de Dan North.
 
-Cada día es más necesario hacer pruebas de nuestros códigos, para asegurar su estabilidad y hacerlos escalables. Actualmente existen muchas librerías y frameworks en diferentes lenguajes de programación que nos ayudan a lograrlo. Con Jasmine podemos hacer fácilmente nuestras pruebas, con una sintáxis idiomática inspirada en ScrewUnit, JSSpec, JSpec y RSpec (Ruby).
+Cada día es más necesario hacer pruebas de nuestro código, para asegurar su estabilidad y hacerlos escalables. Actualmente existen muchas librerías y frameworks en diferentes lenguajes de programación que nos ayudan a lograrlo. Con Jasmine podemos hacer fácilmente nuestras pruebas, con una sintáxis idiomática inspirada en ScrewUnit, JSSpec, JSpec y RSpec (Ruby).
 
 ## Jasmine en el navegador
 
