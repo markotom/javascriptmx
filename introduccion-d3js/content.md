@@ -148,4 +148,4 @@ d3.select('body')
 
 ¿Por qué Angular.js tiene muchos más "forks" que los demás?
 
-Puedes ver este ejemplo en [Github](http://github.com/markotom/javascriptmx/introduccion-d3js/example). Si quieres saber más de lo que puedes hacer con D3.js, visita esta [galería](https://github.com/mbostock/d3/wiki/Gallery) donde encontrarás ejemplos increíbles.
+Puedes ver este ejemplo en [Github](https://github.com/markotom/javascriptmx/tree/master/introduccion-d3js/example). Si quieres saber más de lo que puedes hacer con D3.js, visita esta [galería](https://github.com/mbostock/d3/wiki/Gallery) donde encontrarás ejemplos increíbles.
