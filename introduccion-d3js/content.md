@@ -142,6 +142,7 @@ d3.select('body')
       return item.name;
     });
 ```
+Así se vería el ejemplo final:
 
 ![Ejemplo final](https://raw.githubusercontent.com/markotom/javascriptmx/master/introduccion-d3js/example.png)
 
