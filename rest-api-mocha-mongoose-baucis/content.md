@@ -58,12 +58,12 @@ PUT     /api/todos/:id      Actualiza una tarea
 DELETE  /api/todos/:id      Elimina una tarea
 ```
 
-Primero haremos pruebas unitarias de nuestros esquemas de `mongoose`, comprobando si tienen las propiedades que queremos y si están declaradas correctamente; podemos verificar si están definidas, el tipo (String, Object, Date, Boolean), si es requerida, si tiene un valor por defecto, si tiene índices, etcétera.
+Primero haremos pruebas unitarias de nuestros esquemas de `mongoose`, comprobando si tienen las propiedades que queremos y si están declaradas correctamente; podemos verificar si están definidas, el tipo (*String*, *Object*, *Date*, *Boolean*), si es requerida, si tiene un valor por defecto, si tiene índices, etcétera.
 
 ```js
 var assert   = require('assert'),
     mongoose = require('mongoose'),
-    Todo     = require('./models/todo');
+    Todo     = require('../server/models/todo');
 
 describe('modelo `Todo`', function () {
   before(function () {
